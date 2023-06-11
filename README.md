@@ -1,1 +1,1 @@
-# newsletterapp
+this is newsletter app
